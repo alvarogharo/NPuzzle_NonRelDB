@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+  <config>
+    <imageSize>40</imageSize>
+    <rowNum>3</rowNum>
+    <columNum>3</columNum>
+    <shuffle>10</shuffle>
+    <imageList>
+      <imgName>blank.gif</imgName>
+      <imgName>one.gif</imgName>
+      <imgName>two.gif</imgName>
+      <imgName>three.gif</imgName>
+      <imgName>four.gif</imgName>
+      <imgName>five.gif</imgName>
+      <imgName>six.gif</imgName>
+      <imgName>seven.gif</imgName>
+      <imgName>eight.gif</imgName>
+    </imageList>
+  </config>
+  <board>
+    <piece>4</piece>
+    <piece>3</piece>
+    <piece>2</piece>
+    <piece>1</piece>
+    <piece>5</piece>
+    <piece>8</piece>
+    <piece>6</piece>
+    <piece>7</piece>
+    <piece>0</piece>
+  </board>
+  <movements>
+    <undoMovements>
+      <movement>3,0</movement>
+      <movement>4,3</movement>
+      <movement>1,4</movement>
+      <movement>0,1</movement>
+      <movement>3,0</movement>
+      <movement>4,3</movement>
+      <movement>5,4</movement>
+      <movement>8,5</movement>
+    </undoMovements>
+    <redoMovements>
+      <movement>4,7</movement>
+      <movement>7,8</movement>
+    </redoMovements>
+  </movements>
+</game>

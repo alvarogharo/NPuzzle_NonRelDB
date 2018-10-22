@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE config SYSTEM "config.dtd">
+
+<config>
+    <imageSize>32</imageSize>
+    <rowNum>3</rowNum>
+    <columNum>3</columNum>
+    <shuffle>10</shuffle>
+    <imageList>
+        <imgName>blank.gif</imgName>
+        <imgName>one.gif</imgName>
+        <imgName>two.gif</imgName>
+        <imgName>three.gif</imgName>
+        <imgName>four.gif</imgName>
+        <imgName>five.gif</imgName>
+        <imgName>six.gif</imgName>
+        <imgName>seven.gif</imgName>
+        <imgName>eight.gif</imgName>
+    </imageList>
+</config>

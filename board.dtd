@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT board(rowNum,columnNum,pieceModel,imageList)*>
+<!ELEMENT rowNum(#PCDATA)>
+<!ELEMENT columnNum(#PCDATA)>
+<!ELEMENT pieceModel(id,indexRow,indexColumn,pieceSize,imagePath)*>
+<!ELEMENT id(#PCDATA)>
+<!ELEMENT indexRow(#PCDATA)>
+<!ELEMENT indexColumn(#PCDATA)>
+<!ELEMENT pieceSize(#PCDATA)>
+<!ELEMENT imagePath(#PCDATA)>
+<!ELEMENT imageList (imgName)*>
+<!ELEMENT imgName (#PCDATA)>

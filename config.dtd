@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT config (imageSize,rowNum,columNum,shuffle,imageList)*>
+<!ELEMENT imageSize (#PCDATA)>
+<!ELEMENT rowNum (#PCDATA)>
+<!ELEMENT columNum (#PCDATA)>
+<!ELEMENT shuffle (#PCDATA)>
+<!ELEMENT imageList (imgName)*>
+<!ELEMENT imgName (#PCDATA)>

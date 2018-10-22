@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE config[
+<!ELEMENT config (imageSize,rowNum,columNum,shuffle,imageList)*>
+<!ELEMENT imageSize (#PCDATA)>
+<!ELEMENT rowNum (#PCDATA)>
+<!ELEMENT columNum (#PCDATA)>
+<!ELEMENT shuffle (#PCDATA)>
+<!ELEMENT imageList (imgName)*>
+<!ELEMENT imgName (#PCDATA)>
+]>
+
+
+<config>
+    <imageSize>32</imageSize>
+    <rowNum>3</rowNum>
+    <columNum>3</columNum>
+    <shuffle>10</shuffle>
+    <imageList>
+        <imgName>blank.gif</imgName>
+        <imgName>one.gif</imgName>
+        <imgName>two.gif</imgName>
+        <imgName>three.gif</imgName>
+        <imgName>four.gif</imgName>
+        <imgName>five.gif</imgName>
+        <imgName>six.gif</imgName>
+        <imgName>seven.gif</imgName>
+        <imgName>eight.gif</imgName>
+    </imageList>
+</config>

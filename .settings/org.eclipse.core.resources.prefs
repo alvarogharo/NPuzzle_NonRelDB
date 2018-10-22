@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/PuzzleApp.java=UTF-8
+encoding//src/command/Command.java=UTF-8
+encoding//src/control/AbstractController.java=UTF-8
+encoding//src/model/AbstractModel.java=UTF-8
+encoding//src/view/BoardView.java=UTF-8
+encoding//src/view/InfoView.java=UTF-8
+encoding//src/view/PieceView.java=UTF-8
+encoding//src/view/PuzzleGUI.java=UTF-8

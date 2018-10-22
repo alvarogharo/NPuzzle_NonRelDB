@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<board>
+  <PieceModel>
+    <id>0</id>
+    <indexRow>0</indexRow>
+    <indexColumn>0</indexColumn>
+    <pieceSize>40</pieceSize>
+    <imagePath>C:\Users\adria\Documents\Universidad\Cuarto\Segundo cuatrimestre\Gestion de datos\Practica Junio\final ver\sadasd\resources\blank.gif</imagePath>
+  </PieceModel>
+  <PieceModel>
+    <id>1</id>
+    <indexRow>1</indexRow>
+    <indexColumn>0</indexColumn>
+    <pieceSize>40</pieceSize>
+    <imagePath>C:\Users\adria\Documents\Universidad\Cuarto\Segundo cuatrimestre\Gestion de datos\Practica Junio\final ver\sadasd\resources\one.gif</imagePath>
+  </PieceModel>
+  <PieceModel>
+    <id>2</id>
+    <indexRow>2</indexRow>
+    <indexColumn>0</indexColumn>
+    <pieceSize>40</pieceSize>
+    <imagePath>C:\Users\adria\Documents\Universidad\Cuarto\Segundo cuatrimestre\Gestion de datos\Practica Junio\final ver\sadasd\resources\two.gif</imagePath>
+  </PieceModel>
+  <PieceModel>
+    <id>3</id>
+    <indexRow>0</indexRow>
+    <indexColumn>1</indexColumn>
+    <pieceSize>40</pieceSize>
+    <imagePath>C:\Users\adria\Documents\Universidad\Cuarto\Segundo cuatrimestre\Gestion de datos\Practica Junio\final ver\sadasd\resources\three.gif</imagePath>
+  </PieceModel>
+  <PieceModel>
+    <id>4</id>
+    <indexRow>1</indexRow>
+    <indexColumn>1</indexColumn>
+    <pieceSize>40</pieceSize>
+    <imagePath>C:\Users\adria\Documents\Universidad\Cuarto\Segundo cuatrimestre\Gestion de datos\Practica Junio\final ver\sadasd\resources\four.gif</imagePath>
+  </PieceModel>
+  <PieceModel>
+    <id>5</id>
+    <indexRow>2</indexRow>
+    <indexColumn>1</indexColumn>
+    <pieceSize>40</pieceSize>
+    <imagePath>C:\Users\adria\Documents\Universidad\Cuarto\Segundo cuatrimestre\Gestion de datos\Practica Junio\final ver\sadasd\resources\five.gif</imagePath>
+  </PieceModel>
+  <PieceModel>
+    <id>6</id>
+    <indexRow>0</indexRow>
+    <indexColumn>2</indexColumn>
+    <pieceSize>40</pieceSize>
+    <imagePath>C:\Users\adria\Documents\Universidad\Cuarto\Segundo cuatrimestre\Gestion de datos\Practica Junio\final ver\sadasd\resources\six.gif</imagePath>
+  </PieceModel>
+  <PieceModel>
+    <id>7</id>
+    <indexRow>1</indexRow>
+    <indexColumn>2</indexColumn>
+    <pieceSize>40</pieceSize>
+    <imagePath>C:\Users\adria\Documents\Universidad\Cuarto\Segundo cuatrimestre\Gestion de datos\Practica Junio\final ver\sadasd\resources\seven.gif</imagePath>
+  </PieceModel>
+  <PieceModel>
+    <id>8</id>
+    <indexRow>2</indexRow>
+    <indexColumn>2</indexColumn>
+    <pieceSize>40</pieceSize>
+    <imagePath>C:\Users\adria\Documents\Universidad\Cuarto\Segundo cuatrimestre\Gestion de datos\Practica Junio\final ver\sadasd\resources\eight.gif</imagePath>
+  </PieceModel>
+</board>
